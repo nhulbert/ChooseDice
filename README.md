@@ -1,6 +1,6 @@
 # ChooseDice
 
-A utility for cheating in Super Mario Party (or similar dice based games), that displays the optimal dice and direction choice to maximize the expected number of times landed on one or more goal locations in a given number of turns.
+A utility for Super Mario Party (or similar dice based games), that displays the optimal dice and direction choice to maximize the expected number of times landed on one or more goal locations in a given number of turns.
 
 ![Demo Image](https://user-images.githubusercontent.com/22622734/90078996-7e0d0900-dcbb-11ea-8018-ebbae04edf20.png)
 
